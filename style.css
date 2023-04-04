@@ -21,6 +21,7 @@ body {
 /* common styles */
 img {
 	width: 100%;
+	border-radius: 50%;
 }
 a {
 	text-decoration: none;
@@ -112,6 +113,7 @@ a {
 }
 .profile_profileImg {
 	max-width: 250px;
+
 }
 .profile_name_firstName {
 	color: white;
@@ -175,6 +177,7 @@ a {
 }
 .see-more{
 	margin-top: 2rem;
+	text-decoration: underline;
 }
 /* exp */
 .exp_item {
