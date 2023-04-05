@@ -147,6 +147,7 @@ a {
 @media only screen and (max-width: 768px) {
 	.profile_container {
 		flex-direction: column;
+		align-items: center;
 	}
 }
 
